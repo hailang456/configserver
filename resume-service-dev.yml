@@ -1,5 +1,4 @@
-server:
-  9001
-spring:
-  apllication:
-    name: resume-service
+message:
+  name: test
+mysql:
+  url: 123456
